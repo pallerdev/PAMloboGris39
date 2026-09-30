@@ -43,29 +43,29 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       5 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.40 % 
-Markdown                 2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-JSON                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-SQL                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-HTML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+C#                       4 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.38 % 
+Markdown                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+JSON                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+SQL                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+HTML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 13 mins       ████████████████████░░░░░   79.43 % 
-Rider                    2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Claude Code              8 hrs 14 mins       ███████████████████░░░░░░   77.55 % 
+Rider                    2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
 
 🐱‍💻 Projects: 
-artima-ai                9 hrs 47 mins       █████████████████████░░░░   84.39 % 
-UOC                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-GardenView               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-pam                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-artima-web               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+artima-ai                8 hrs 49 mins       █████████████████████░░░░   82.97 % 
+UOC                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+GardenView               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+pam                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+artima-web               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Linux                    11 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/09/2026 12:01:21 UTC
+ Last Updated on 30/09/2026 11:49:43 UTC
 <!--END_SECTION:waka-->
 
 </br>
