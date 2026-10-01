@@ -43,29 +43,29 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       4 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.38 % 
-Markdown                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-JSON                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-SQL                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-HTML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+C#                       2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
+Markdown                 2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+SQL                      1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 14 mins       ███████████████████░░░░░░   77.55 % 
-Rider                    2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Claude Code              7 hrs 9 mins        █████████████████████░░░░   82.55 % 
+Rider                    1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
 
 🐱‍💻 Projects: 
-artima-ai                8 hrs 49 mins       █████████████████████░░░░   82.97 % 
-UOC                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-GardenView               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-pam                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-artima-web               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+artima-ai                7 hrs 12 mins       █████████████████████░░░░   83.20 % 
+UOC                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+GardenView               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+artima-web               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+camaleon-teatro          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Linux                    10 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/09/2026 11:49:43 UTC
+ Last Updated on 01/10/2026 12:19:21 UTC
 <!--END_SECTION:waka-->
 
 </br>
