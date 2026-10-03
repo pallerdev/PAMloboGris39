@@ -33,9 +33,9 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,29 +43,28 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Markdown                 1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-SQL                      1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Markdown                 2 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.11 % 
+C#                       1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+SQL                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 42 mins       █████████████████████░░░░   83.40 % 
-Rider                    1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Claude Code              5 hrs 12 mins       ████████████████████████░   94.12 % 
+Rider                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🐱‍💻 Projects: 
-artima-ai                5 hrs 53 mins       ██████████████████████░░░   86.08 % 
-UOC                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-pam                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-artima-web               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-LearningC#               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+artima-ai                5 hrs 12 mins       ████████████████████████░   94.34 % 
+pam                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+UOC                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+LearningC#               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    6 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/10/2026 11:47:32 UTC
+ Last Updated on 03/10/2026 11:01:01 UTC
 <!--END_SECTION:waka-->
 
 </br>
