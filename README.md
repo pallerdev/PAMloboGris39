@@ -33,9 +33,9 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,29 +43,29 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.43 % 
-C#                       3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.51 % 
-Other                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-SQL                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+C#                       2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.86 % 
+Markdown                 2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.52 % 
+Other                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+SQL                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 28 mins       ████████████████████████░   95.08 % 
-Rider                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Claude Code              7 hrs 31 mins       ████████████████████████░   94.12 % 
+Rider                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🐱‍💻 Projects: 
-artima-ai                8 hrs 54 mins       ██████████████████████░░░   89.36 % 
-pam                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-AyDcP                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-diagramas                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-AiHub                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+artima-ai                6 hrs 56 mins       ██████████████████████░░░   86.84 % 
+pam                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+AyDcP                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+diagramas                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+AiHub                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Linux                    9 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/10/2026 12:32:58 UTC
+ Last Updated on 08/10/2026 12:42:48 UTC
 <!--END_SECTION:waka-->
 
 </br>
