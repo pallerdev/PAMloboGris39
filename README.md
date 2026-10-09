@@ -43,29 +43,29 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.86 % 
-Markdown                 2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.52 % 
-Other                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-SQL                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+C#                       2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.31 % 
+Markdown                 2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
+Other                    54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+SQL                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 31 mins       ████████████████████████░   94.12 % 
-Rider                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Claude Code              6 hrs 20 mins       ███████████████████████░░   93.69 % 
+Rider                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🐱‍💻 Projects: 
-artima-ai                6 hrs 56 mins       ██████████████████████░░░   86.84 % 
-pam                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-AyDcP                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-diagramas                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-AiHub                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+artima-ai                5 hrs 48 mins       █████████████████████░░░░   85.85 % 
+pam                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+AyDcP                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+diagramas                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+AiHub                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Linux                    7 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/10/2026 12:42:48 UTC
+ Last Updated on 09/10/2026 12:29:30 UTC
 <!--END_SECTION:waka-->
 
 </br>
